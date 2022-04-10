@@ -10,3 +10,9 @@ See <https://github.com/compilerla/conventional-pre-commit/issues/15>
 ```bash
 git commit -m "docs: try a commit with a ' (single quote)"
 ```
+
+## Double quote
+
+```bash
+git commit -m "docs: try a commit with a \" (escaped double quote)"
+```
