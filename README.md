@@ -16,3 +16,9 @@ git commit -m "docs: try a commit with a ' (single quote)"
 ```bash
 git commit -m "docs: try a commit with a \" (escaped double quote)"
 ```
+
+## Backtick
+
+```bash
+git commit -m "docs: try a commit with a \` (escaped backtick)"
+```
